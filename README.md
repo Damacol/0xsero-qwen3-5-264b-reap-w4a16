@@ -1,4 +1,4 @@
-# 0xSero/Qwen3.5-264B-REAP-W4A16 - Private, Uncensored AI for Real Creators and Devs
+# 0xSero/Qwen3.5-264B-REAP-W4A16  - Private, Uncensored AI for Real Creators and Devs
 
 > Tired of AI that babysits you, logs your prompts, or hits you with "I can't do that"?
 > Meet the next-gen chatbot built for freedom, speed, and digital sovereignty.
